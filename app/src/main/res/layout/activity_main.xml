@@ -560,3 +560,7 @@
         android:layout_gravity="bottom|end"
          />
 </android.support.design.widget.CoordinatorLayout>
+
+<!-- profe, no pude realizar lo de las barras circulares, solamente
+            me falto eso, de resto si lo pude realizar!
+            -->
