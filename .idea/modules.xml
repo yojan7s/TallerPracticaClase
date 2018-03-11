@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TallerPracticaClase.iml" filepath="$PROJECT_DIR$/TallerPracticaClase.iml" />
+      <module fileurl="file://E:\Android Studio\Taller2\TallerPracticaClase\TallerPracticaClase.iml" filepath="E:\Android Studio\Taller2\TallerPracticaClase\TallerPracticaClase.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\Android Studio\Taller2\TallerPracticaClase\app\app.iml" filepath="E:\Android Studio\Taller2\TallerPracticaClase\app\app.iml" />
     </modules>
   </component>
 </project>
